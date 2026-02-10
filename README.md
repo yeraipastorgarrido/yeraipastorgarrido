@@ -14,10 +14,10 @@ Soy una persona organizada, responsable y con gran capacidad de planificación. 
 
 | Categoría | Tecnologías y Conocimientos |
 | :--- | :--- |
-| **Sistemas** | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Administración de dominios, usuarios y optimización. |
-| **Scripting / Web** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white) PHP, HTML5 y CSS3. |
-| **Redes e Infra** | ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Servicios de red y virtualización. |
-| **Bases de Datos** | Gestión e implantación de bases de datos. |
+| **Sistemas** | Windows, Linux, Administración de dominios, usuarios y optimización. |
+| **Scripting / Web** | Python, Bash, PHP, HTML y CSS. |
+| **Redes e Infra** | Cisco, Docker, Servicios de red y virtualización. |
+| **Bases de Datos** | Gestión e implantación de bases de datos usando SQL. |
 
 ---
 
