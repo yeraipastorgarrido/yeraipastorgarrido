@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre y Apellidos] 👋
+# ¡Hola! Soy Yerai Pastor 👋
 
 ### 👨‍💻 Sobre mí
 * 📍 **Ubicación:** El Bruc, Barcelona.
