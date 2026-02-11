@@ -1,5 +1,5 @@
 # Yerai Pastor Garrido
-**Administrador de Sistemas Junior | Especialista en ASIR y SMX**
+**Administrador de Sistemas | Especialista en ASIR y SMX**
 
 ### Sobre mí
 * 📍 **Ubicación:** El Bruc, Barcelona.
@@ -8,11 +8,11 @@
 
 ---
 
-### Stack Tecnológico
+### Entornos y Herramientas
 
 * **Sistemas:** Administración de dominios, gestión de usuarios, instalación y optimización de sistemas operativos Windows y Linux.
 * **Automatización:** Automatización de procesos y despliegue de infraestructura mediante **Ansible**.
-* **Redes e Infraestructura:** Configuración de servicios de red, uso de Cisco Packet Tracer, gestión de máquinas virtuales y Docker.
+* **Networking y Virtualización:** Configuración de servicios de red, uso de Cisco Packet Tracer, gestión de máquinas virtuales y Docker.
 * **Scripting y Web:** Programación en Python, Bash y PHP. Conocimientos en lenguajes de marcas como HTML, CSS y XML.
 * **Bases de Datos:** Diseño, gestión e implantación de bases de datos utilizando SQL.
 
