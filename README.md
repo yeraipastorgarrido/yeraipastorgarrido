@@ -1,10 +1,10 @@
 # Yerai Pastor Garrido
-**Administrador de Sistemas | Especialista en ASIR y SMX**
+****Administrador de Sistemas****
 
 ### Sobre mí
-* 📍 **Ubicación:** El Bruc, Barcelona.
-* 🎓 **Formación:** Estudiante de **ASIR** en la Escola del Treball y titulado en **SMX** en Institut Milà i Fontanals.
-* 🚀 **Perfil:** Soy una persona organizada, responsable y con gran capacidad de planificación. Me enfoco en aportar soluciones técnicas eficicientes y en la automatización de procesos para optimizar infraestructuras IT.
+* **Ubicación:** El Bruc, Barcelona.
+* **Formación:** Estudiante de **ASIR** en la Escola del Treball y titulado en **SMX** en Institut Milà i Fontanals.
+* **Perfil:** Soy una persona organizada, responsable y con gran capacidad de planificación. Me enfoco en aportar soluciones técnicas eficicientes y en la automatización de procesos para optimizar infraestructuras IT.
 
 ---
 
