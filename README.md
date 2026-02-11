@@ -1,39 +1,38 @@
-# ¡Hola! Soy Yerai Pastor Garrido 👋
+# Yerai Pastor Garrido
+**Administrador de Sistemas Junior | Especialista en ASIR y SMX**
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 * 📍 **Ubicación:** El Bruc, Barcelona.
-* 🎓 **Formación:** Estudiante de **ASIR** en la Escola del Treball y titulado en **SMX**.
-* 🚗 **Movilidad:** Carnets A1 y B con vehículo propio.
-
-Soy una persona organizada, responsable y con gran capacidad de planificación. Me motiva aportar soluciones técnicas y contribuir a un buen ambiente laboral mientras sigo ampliando mis conocimientos en el sector IT.
+* 🎓 **Formación:** Estudiante de **ASIR** en la Escola del Treball y titulado en **SMX** en Institut Milà i Fontanals.
+* 🚀 **Perfil:** Soy una persona organizada, responsable y con gran capacidad de planificación. Me enfoco en aportar soluciones técnicas eficicientes y en la automatización de procesos para optimizar infraestructuras IT.
 
 ---
 
-### 🛠️ Stack Tecnológico (Mis Herramientas)
+### Stack Tecnológico
 
-| Categoría | Tecnologías y Conocimientos |
-| :--- | :--- |
-| **Sistemas** | Windows, Linux, Administración de dominios, automatización y optimización. |
-| **Scripting / Web** | Python, Bash, PHP, HTML y CSS. |
-| **Redes e Infra** | Cisco, Docker, Servicios de red y virtualización con VMWare. |
-| **Bases de Datos** | Gestión e implantación de bases de datos con uso de  SQL. |
+* **Sistemas:** Administración de dominios, gestión de usuarios, instalación y optimización de sistemas operativos Windows y Linux.
+* **Automatización:** Automatización de procesos y despliegue de infraestructura mediante **Ansible**.
+* **Redes e Infraestructura:** Configuración de servicios de red, uso de Cisco Packet Tracer, gestión de máquinas virtuales y Docker.
+* **Scripting y Web:** Programación en Python, Bash y PHP. Conocimientos en lenguajes de marcas como HTML, CSS y XML.
+* **Bases de Datos:** Diseño, gestión e implantación de bases de datos utilizando SQL.
 
 ---
 
-### 💼 Experiencia Relevante
-**Prácticas profesionales - SAI Computers S.L. (2022-2023)**
-* Mantenimiento de hardware y administración de dominios.
-* Gestión de copias de seguridad y cuentas de correo.
-* Soporte técnico (Helpdesk).
+### Experiencia Profesional
 
-### 
-**Prácticas profesionales - Coneptum S.L. (2025-)**
-* Automatización de procesos y optimización de recursos con Ansible.
-* Soporte técnico (Helpdesk).
+**Prácticas profesionales - Coneptum S.L. (2025 - Actualidad)**
+* Automatización de procesos y optimización de recursos mediante Ansible.
+* Gestión de usuarios, mantenimiento de infraestructura crítica y soporte técnico especializado.
+
+**Prácticas profesionales - SAI Computers S.L. (2022 - 2023)**
+* Mantenimiento preventivo de hardware y administración de dominios.
+* Gestión de copias de seguridad (Backups) 
+* Administración de usuarios.
+* Soporte técnico y resolución de incidencias (Helpdesk).
+
 ---
-###
 
-### 📫 Contacto
-* 📧 **Email:** yeraipastorgarrido05@gmail.com
-* 📱 **Teléfono:** 618 946 427
-* 📍 El Bruc, Barcelona
+### Contacto
+* **Email:** yeraipastorgarrido05@gmail.com
+* **Teléfono:** 618 946 427
+* **Linkedin:** https://www.linkedin.com/in/yerai-pastor-garrido-865905270/ 
