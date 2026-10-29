@@ -7,5 +7,4 @@
 
 ### Contact
 * **Email:** yeraipastorgarrido05@gmail.com
-* **Phone:** 618 946 427
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yerai-pastor-garrido-865905270/)
